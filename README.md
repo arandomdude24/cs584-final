@@ -18,3 +18,7 @@ Files:
 - submission3.csv: contains the results of the 1D CNN
 - presentation.pptx: contains my presentation of the project
 - project_final_report.pdf: contains my final report
+
+********************************************************************************************************************************
+I DO NOT GIVE PERMISSION FOR ANY FILE OR ANY CODE IN THIS REPOSITORY TO BE REUSED IN ANY CAPACITY UNLESS I APPROVE IT
+********************************************************************************************************************************
